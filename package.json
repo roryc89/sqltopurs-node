@@ -1,6 +1,6 @@
 {
-  "name": "puregres",
-  "version": "1.0.4",
+  "name": "sqltopurs-node",
+  "version": "1.0.0",
   "description": "get typed purescript functions from postgres functions",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roryc89/puregres"
+    "url": "https://github.com/roryc89/sqltopurs-node"
   },
   "devDependencies": {
     "dotenv": "^5.0.0",
